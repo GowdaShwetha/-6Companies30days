@@ -37,4 +37,22 @@
 16) [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges)
 17) [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected)
 18) [Delete N nodes after M nodes of a linked list](https://www.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1)
-    
+
+# Walmart
+
+1) [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset)
+2) [2099. Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum)
+3) [2385. Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected?envType=daily-question&envId=2024-01-10)
+4) [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array)
+5) [2572. Count the Number of Square-Free Subsets](https://leetcode.com/problems/count-the-number-of-square-free-subsets)
+6) [396. Rotate Function](https://leetcode.com/problems/rotate-function)
+7) [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget)
+8) [825. Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages)
+9) [718. Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray)
+10) [331. Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)
+11) [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)
+12) [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board)
+13) [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency)
+14) [139. Word Break](https://leetcode.com/problems/word-break)
+15) [2707. Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string)
+16) 
